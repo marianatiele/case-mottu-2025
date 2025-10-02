@@ -1,1 +1,41 @@
 Documentos do Projeto Mottu 
+
+
+Instalei o curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+
+e baixar o terraform
+
+provider "aws" {
+  region     = "us-west-2"
+  access_key = "my-access-key"
+  secret_key = "my-secret-key"
+}
+
+Criar Chave de acesso no IAM do usuário, crie uma para CLI
+
+no terminal use o aws configure
+coloca as credenciais e a região
+
+
+Canal do youtube AWS Made Easy
+# Instalando o terraform 
+
+# Exemplo usando a versão 1.7.5 (você pode buscar a mais recente)
+wget https://releases.hashicorp.com/terraform/1.7.5/terraform_1.7.5_linux_amd64.zip
+
+# Instala o utilitário 'unzip' se ainda não estiver instalado
+sudo apt-get update && sudo apt-get install -y unzipsudo apt-get update && sudo apt-get install -y unzip
+
+# Descompacta o arquivo baixado
+unzip terraform_1.7.5_linux_amd64.zip
+
+## Comando terraform 
+
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+terraform apply
+terraform destroy
