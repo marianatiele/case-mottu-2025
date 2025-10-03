@@ -20,7 +20,7 @@ Este repositório contém o projeto de análise e diagnóstico estratégico-oper
 
 | Componente | Ferramenta | Objetivo |
 | :--- | :--- | :--- |
-| **Infraestrutura** | **Terraform (IaC)** | Criação e gerenciamento da infraestrutura AWS (Bucket S3) de forma automatizada e repetível. |
+| **Infraestrutura** | **Terraform (IaC)** | Criação e gerenciamento da infraestrutura AWS (Bucket S3). |
 | **Armazenamento** | **AWS S3** | *Bucket* S3|
 | **Processamento** | **Google Colab (Python/Pandas)** | Processamento ETL. |
 | **Análise e BI** | **Microsoft Power BI** | Modelagem dos dados e construção dos *dashboards* para as análises de *Turnover* (Q1) e Simulação de Risco (Q2). |
