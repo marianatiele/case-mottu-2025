@@ -26,6 +26,12 @@ Este repositório contém o projeto de análise e diagnóstico estratégico-oper
 
 -----
 
+## Diagrama da Arquitetura
+
+<img width="712" height="490" alt="image" src="https://github.com/user-attachments/assets/01cfbcd2-6d63-4dd0-8163-678725fb8a78" />
+
+-----
+
 ## 🎯 Resultados 
 
 ### Questão 1: Turnover e "Mecânicos Faixa Preta" (Diagnóstico)
