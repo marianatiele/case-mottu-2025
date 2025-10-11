@@ -83,9 +83,7 @@ O *bucket* S3 que serviu como repositório de dados é provisionado via Terrafor
     ```bash
     terraform apply
     ```
-    *(**Nota:** O arquivo de dados deve ser carregado manualmente no *bucket* S3 após a criação.)*
-
------
+ -----
 
 ## Painéis
 
