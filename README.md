@@ -87,13 +87,16 @@ O *bucket* S3 que serviu como repositório de dados é provisionado via Terrafor
 
 ## Painéis
 
-<img width="869" height="493" alt="image" src="https://github.com/user-attachments/assets/24d456b5-e1c3-4ae2-b847-eb7f239f7192" />
+<img width="763" height="431" alt="image" src="https://github.com/user-attachments/assets/701e5860-e832-47e9-8ef7-e8baf0681139" />
+
 
 -----
-<img width="874" height="485" alt="image" src="https://github.com/user-attachments/assets/d95b7455-6140-46e0-a29e-fa912d6c65e0" />
+<img width="757" height="431" alt="image" src="https://github.com/user-attachments/assets/b686d8a7-baf2-4826-b476-9840a9a83e9a" />
+
 
 -----
-<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/3ca4b91a-6dca-404f-83b6-fea235d4d562" />
+<img width="758" height="429" alt="image" src="https://github.com/user-attachments/assets/356766cd-90b7-4549-a54c-eb09caa2f4ec" />
+
 
 
 
