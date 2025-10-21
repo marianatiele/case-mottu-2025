@@ -13,7 +13,7 @@ Este repositório contém o projeto de análise e diagnóstico estratégico-oper
   * **Diagnóstico Operacional (Questão 1):** Análise da causa raiz do alto *Turnover* operacional e avaliação do impacto do programa "Mecânicos Faixa Preta".
   * **Tese Contrária (Questão 2):** Construção de uma tese "Bear" (não investir) quantificada para a visão de *Venture Capital* (VC).
 
------
+
 
 ## 🛠️ Stack Tecnológica
 
@@ -24,13 +24,13 @@ Este repositório contém o projeto de análise e diagnóstico estratégico-oper
 | **Processamento** | **Google Colab (Python/Pandas)** | Processamento ETL. |
 | **Análise e BI** | **Microsoft Power BI** | Modelagem dos dados e construção dos *dashboards* para as análises de *Turnover* (Q1) e Simulação de Risco (Q2). |
 
------
+
 
 ## Diagrama da Arquitetura
 
 <img width="712" height="490" alt="image" src="https://github.com/user-attachments/assets/01cfbcd2-6d63-4dd0-8163-678725fb8a78" />
 
------
+
 
 ## 🎯 Resultados 
 
@@ -48,7 +48,7 @@ A Tese Contrária concluiu **Não Investir Agora**, baseada na quantificação d
   * **Risco de Crédito:** Estimamos que a Perda Líquida (NPL) no produto *Conquiste* possa consumir **80% da Margem Bruta**, dado o alto risco do perfil do cliente e as tendências de inadimplência do mercado [Evidência: **Banco Central do Brasil**].
   * **Risco de Execução:** O *Turnover* sistêmico (Motoristas e Estoquistas) eleva o **Custo de Manutenção** da frota, estrangulando o lucro do produto *Pure Rental* e limitando a escalabilidade.
 
------
+
 
 ## ⚙️ Como Reproduzir a Infraestrutura (IaC)
 
@@ -83,19 +83,19 @@ O *bucket* S3 que serviu como repositório de dados é provisionado via Terrafor
     ```bash
     terraform apply
     ```
- -----
 
 ## Painéis
 
-<img width="763" height="431" alt="image" src="https://github.com/user-attachments/assets/701e5860-e832-47e9-8ef7-e8baf0681139" />
+<img width="756" height="426" alt="image" src="https://github.com/user-attachments/assets/daec26b1-4ae1-49a9-9dff-a92d186d439a" />
 
 
------
-<img width="757" height="431" alt="image" src="https://github.com/user-attachments/assets/b686d8a7-baf2-4826-b476-9840a9a83e9a" />
+
+<img width="758" height="428" alt="image" src="https://github.com/user-attachments/assets/ae1d054b-9c09-4243-bff8-58125e8cf612" />
 
 
------
-<img width="758" height="429" alt="image" src="https://github.com/user-attachments/assets/356766cd-90b7-4549-a54c-eb09caa2f4ec" />
+
+<img width="760" height="429" alt="image" src="https://github.com/user-attachments/assets/c610efa0-df95-42c2-a35c-d33efc6c00d2" />
+
 
 
 
